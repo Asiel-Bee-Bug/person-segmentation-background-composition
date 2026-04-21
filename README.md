@@ -42,7 +42,7 @@ Este proyecto implementa un pipeline completo de procesamiento de imágenes para
 1. Clona el repositorio:
 
 ```bash id="git4x1"
-git clone https://github.com/tu-usuario/person-segmentation-background-composition.git
+git clone https://github.com/Asiel-Bee-Bug/person-segmentation-background-composition/tree/main
 ```
 
 2. Entra a la carpeta:
@@ -67,7 +67,7 @@ ViajeDul.png
 5. Ejecuta el programa:
 
 ```bash id="run4x1"
-python person_segmentation_pipeline.py
+python person_segmentation.py
 ```
 
 ## 🧠 Flujo del algoritmo
