@@ -61,7 +61,7 @@ pip install opencv-python numpy
 
 ```id="img4x1"
 persona2.png
-ViajeDul.png
+ViajeF.png
 ```
 
 5. Ejecuta el programa:
